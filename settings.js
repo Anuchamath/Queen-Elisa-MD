@@ -57,7 +57,7 @@ global.sp = '🔵'
 
 .song [ song name ]
 
-.sticker [ photo or video ]
+ .sticker [ photo or video ]
 
 https://chat.whatsapp.com/BR6TrmmlCinB2BkfcwwWpb
 
