@@ -32,35 +32,97 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94770267442'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94770267442'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94770267442'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '☘Anu☘' // Your name ඔබේ නම 
+global.botnma = '☘Anusha☘' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '😇𝓐𝓝𝓤𝓒𝓗𝓐𝓜𝓐𝓣𝓗 𝓼𝓪𝓽𝓱𝓼𝓪𝓻𝓪😇' //ownernama,ownername
+global.packname = '☘𝓐𝓝𝓤𝓢𝓗𝓐☘' // Sticker package name 
+global.author = '☘𝓐𝓝𝓤𝓢𝓗𝓐☘' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+// Alive massage , `-------------------------------------------------------
+
+☘A░N░U░S░H░A░ B░O░T░☘
+
+  * 𝓬𝓸𝓶𝓪𝓷𝓭 *
+
+ᶠᵒʳ ᵐᵒʳᵉ ⁱᵐᶠᵒʳᵐᵃᵗⁱᵒⁿ ˢᵉⁿᵈ *.menu*
+
+. song [ yt link ]
+
+. video [ yt link ]
+
+.song [ song name ]
+
+.sticker [ photo or video ]
+
+https://chat.whatsapp.com/BR6TrmmlCinB2BkfcwwWpb
+
+⛔⛓Discipline No. 01🤝*
+
+*⛔Do not inappropriate chat🗒️*
+
+*⛔No Link / Inbox Forbidden📥*
+
+*⛔Inactive members will be removed🗑️*
+
+*⛔Do not disturb other members🕯️*
+
+*⛔Respect everyone🥰*
+
+*⛔No SEX or Porn🔞*
+
+*⛔Do not give many commands for one long⚠️* ´
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
 Thanks fro using...`
-// Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
+// Welcome massage 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
-✾ Some bugs fixing
-😼♥️
+-------------------------------------------------------
+
+☘A░N░U░S░H░A░ B░O░T░☘
+
+  * 𝓬𝓸𝓶𝓪𝓷𝓭 *
+
+ᶠᵒʳ ᵐᵒʳᵉ ⁱᵐᶠᵒʳᵐᵃᵗⁱᵒⁿ ˢᵉⁿᵈ *.menu*
+
+. song [ yt link ]
+
+. video [ yt link ]
+
+.song [ song name ]
+
+ .sticker [ photo or video ]
+
+https://chat.whatsapp.com/BR6TrmmlCinB2BkfcwwWpb
+
+⛔⛓Discipline No. 01🤝*
+
+*⛔Do not inappropriate chat🗒️*
+
+*⛔No Link / Inbox Forbidden📥*
+
+*⛔Inactive members will be removed🗑️*
+
+*⛔Do not disturb other members🕯️*
+
+*⛔Respect everyone🥰*
+
+*⛔No SEX or Porn🔞*
+
+*⛔Do not give many commands for one long⚠️*
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `©☘𝓐𝓝𝓤𝓢𝓗𝓠☘`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
